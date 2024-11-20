@@ -3,7 +3,7 @@
 
 This project is a collaborative effort between [Shawn](https://github.com/toastyplains) and [Myself](https://github.com/michael-kudrik) for our principles of programming language final project. We will be using python with libraries such as `numpy`, `pandas`, etc. 
 
-### Data set used 
+### Dataset used 
 
 We will be using the following dataset: 
 [https://archive.ics.uci.edu/dataset/162/forest+fires](https://archive.ics.uci.edu/dataset/162/forest+fires)
